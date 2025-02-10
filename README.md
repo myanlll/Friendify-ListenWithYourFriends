@@ -7,7 +7,21 @@
 # Friendify Extension for Spicetify
 Hey there, music lover! 🎵
 Welcome to **Friendify**, a fun and friendly Spicetify extension that brings your friends' music taste closer to you. With Friendify, you can either save the tracks your friends are listening to in custom playlists or add them directly to your queue. It's all about sharing and discovering new music together!
+
+
 ## Installation Instructions
+
+### 1. Open **Spotify** and navigate to the **Spicetify Marketplace**.
+
+### 2. In the **Extensions** section, search for **"Friendify"**.
+
+### 3. Once you find it, simply click on it to view the extension page.
+
+### 4. Hit the **Download** button to install the extension with just one click.
+
+#### Enjoy sharing and discovering music with friends in real-time!
+
+## Manual Installation Instructions
 ### 1. Download the Extension
 - Copy the provided code and save it in a new JavaScript file (`friendify.js`).
 ### 2. Place the File
