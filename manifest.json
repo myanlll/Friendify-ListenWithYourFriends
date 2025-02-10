@@ -1,13 +1,13 @@
 [
-    {
-      "name": "Friendify",
-      "description": "An extension for Spicetify users to share and discover music with friends in real-time.",
-      "preview": "preview.png",
-      "main": "friendify.js",
-      "readme": "README.md",
-      "authors": [
-        { "name": "myanlll", "url": "https://github.com/myanlll" }
-      ],
-      "tags": ["Social", "Music","Share", "Friends"]
-    }
-  ]
+  {
+    "name": "Friendify",
+    "description": "An extension for Spicetify users to share and discover music with friends in real-time.",
+    "preview": "preview.png",
+    "main": "friendify.js",
+    "readme": "README.md",
+    "authors": [
+      { "name": "myanlll", "url": "https://github.com/myanlll" }
+    ],
+    "tags": ["Social", "Music", "Share", "Friends"]
+  }
+]
