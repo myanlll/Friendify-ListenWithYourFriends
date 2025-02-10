@@ -209,7 +209,7 @@
         buttonIconHTML,
         () => {
           Spicetify.PopupModal.display({
-            title: "Friendify",
+            title: "Friendify----beta test",
             content: createElement(SettingsPanel),
             isLarge: true,
           });
