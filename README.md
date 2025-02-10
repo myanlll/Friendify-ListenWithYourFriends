@@ -11,15 +11,15 @@ Welcome to **Friendify**, a fun and friendly Spicetify extension that brings you
 
 ## Installation Instructions
 
-### 1. Open **Spotify** and navigate to the **Spicetify Marketplace**.
+- Open **Spotify** and navigate to the **Spicetify Marketplace**.
 
-### 2. In the **Extensions** section, search for **"Friendify"**.
+- In the **Extensions** section, search for **"Friendify"**.
 
-### 3. Once you find it, simply click on it to view the extension page.
+- Once you find it, simply click on it to view the extension page.
 
-### 4. Hit the **Download** button to install the extension with just one click.
+- Hit the **Download** button to install the extension with just one click.
 
-#### Enjoy sharing and discovering music with friends in real-time!
+- Enjoy sharing and discovering music with friends in real-time!
 
 ## Manual Installation Instructions
 ### 1. Download the Extension
